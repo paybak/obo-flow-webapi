@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+azure:
+  activedirectory:
+    client-id: <BFF_CLIENT_ID>
+    app-id-uri: <WEBAPI_APPLICATION_URI>
